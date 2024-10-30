@@ -29,6 +29,10 @@ footer {
     width: 100%;
 }
 
+#form input {
+    background-color: aqua;
+}
+
 
 #about {
     width: 100%;
