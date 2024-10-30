@@ -28,3 +28,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+
+#about {
+    width: 100%;
+    font-size: 40px;
+}
